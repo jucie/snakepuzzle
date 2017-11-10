@@ -1,5 +1,5 @@
-// This program solves Rose's puzzle.
-// Thanks for my friend Robert for bringing the puzzle to my attention.
+// This program solves Rose's puzzle. The goal is to turn the snake into a cube.
+// Thanks to my friend Robert for bringing the puzzle to my attention.
 #include <stdio.h>
 
 #define SIZE (3 * 3 * 3)
